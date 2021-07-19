@@ -3,6 +3,7 @@ The world happiness resolution was started by the UN general assembly in 2011, t
 
 The World Happiness report of 2019 ranks 156 countries by their happiness levels. The report specifies six key variables that support well being of the nations. Those six variables are income, social support, freedom, trust, healthy life expectancy and generosity. Each variable measured reveals a populated-weighted average score on a scale running from 0 to 10 that is tracked over time and compared against other countries. These variables currently include: real GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption for the 2019 report. For the purpose of analysis apart from the six variables we have added extra measures of countries like population, population density and literacy to check if we can derive a relation between these factors and the happiness rank of each nation.
 
+
 ![Rank Finder](VIS1.PNG)
 
 ![Rank Comparator](VIS2.PNG)
